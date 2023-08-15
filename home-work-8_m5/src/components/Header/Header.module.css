@@ -1,0 +1,10 @@
+.header__link {
+  color: white;
+}
+
+.header__ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0px;
+  background: #696969;
+}
